@@ -10,9 +10,9 @@
 #include "rapidjson/prettywriter.h"
 #include "rapidjson/filewritestream.h"
 
-#define APP_KEY          "AIzaSyCeEdBFVx7MrZmbEewZCQrCGyJf02UNY8c"
-#define CLIENT_ID        "6695011871-r9bnkpp9rkamnkrgim2iniqq38koff09.apps.googleusercontent.com"
-#define CLIENT_SECRET    "za2mleqMh2GJCC4ojs4WVYY_"
+#define APP_KEY          "AIzaSyAjcGaZtrldAI49UlNEN66ccuu_D1omfms"
+#define CLIENT_ID        "575875959663-8au9ja2i4k0jc4rktr4h43dqdb79nlsh.apps.googleusercontent.com"
+#define CLIENT_SECRET    "28cJmI1w1xKuHLAqNxzzsR_l"
 
 class Config {
 public:
